@@ -4,7 +4,7 @@ gevent-websocket
 flask
 flask_socketio
 spotipy
-yt_dlp==2025.9.5
+yt_dlp==2025.9.23
 plexapi
 ytmusicapi
 requests
